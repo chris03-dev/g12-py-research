@@ -17,4 +17,5 @@ pip install opencv-python
 ## License
 
 You may access the source files under the MIT license.
-You may access the images in this project under ``CC-BY-NC-ND 4.0``.
+
+You may access the images in this project under CC-BY-NC-ND 4.0.
